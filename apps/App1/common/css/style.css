@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+}
+/* Empty. Add your own CSS if you like */
+
+.star>.item-content {
+	background-color: #EEE8D6 !important;
+}
+
+.tabs .tab-item .icon.qorderHome {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 100%;
+  background-image: url('../images/menu/exterior_gray.png');
+  background-size: 25px, auto, contain;
+}
+.tabs .tab-item .icon.qorderQrcode {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 100%;
+  background-image: url('../images/menu/qr_code_gray.png');
+  background-size: 25px, auto, contain;
+}
+
+.tabs .tab-item .icon.qorderMyspace {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 100%;
+  background-image: url('../images/menu/myspace_gray.png');
+  background-size: 25px, auto, contain;
+}
+
+.tabs .tab-item .icon.qorderPurchase {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 100%;
+  background-image: url('../images/menu/purchase_order_gray.png');
+  background-size: 25px, auto, contain;
+}
+
+.tabs .tab-item .icon.qorderSetting {
+  background-repeat: no-repeat;
+  background-position: 50%;
+  height: 100%;
+  background-image: url('../images/menu/settings_gray.png');
+  background-size: 25px, auto, contain;
+}
+
